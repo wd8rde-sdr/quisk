@@ -1,0 +1,12 @@
+
+# "DG8SAQ specific values"
+SI570_I2C_ADDR              = 0xAA
+SI570_DCO_HIGH              = 5670.0
+SI570_DCO_LOW               = 4850.0
+SI570_NOMINAL_XTALL_FREQ    = 114.285
+SI570_XTALL_DEVIATION_PPM   = 2000
+SI570_DEFAULT_STARTUP_FREQ  = 56.32
+
+HS_DIV_MAP = [4, 5, 6, 7, -1, 9, -1, 11]
+
+
